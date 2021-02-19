@@ -9,6 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
+url: "https://japhodbblebrox.github.io"
 baseurl: "japhodbblebrox"
 highlighter: rouge
 sass:
