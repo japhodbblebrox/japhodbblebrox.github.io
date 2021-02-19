@@ -10,7 +10,7 @@ github: "https://github.com/"
 
 # Site config
 url: "https://japhodbblebrox.github.io"
-baseurl: "japhodbblebrox"
+baseurl: " "
 highlighter: rouge
 sass:
   sass_dir: assets/scss
